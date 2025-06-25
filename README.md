@@ -1,0 +1,2 @@
+# Tkinter-Image-Annotation-Tool-Rectangle-Point-and-Polygon-Labeling
+Tkinter Image Annotation Tool  A lightweight image labeling tool built with Python's Tkinter and Pillow (PIL) libraries. This application allows users to annotate images using rectangles, points, and polygons. Annotations are stored in JSON format, making it suitable for preparing datasets for machine learning and computer vision tasks.
